@@ -1,3 +1,6 @@
+---
+title: Notes
+---
 # Notes
 
 This repository is for organizing and taking all of my notes. The notes are
