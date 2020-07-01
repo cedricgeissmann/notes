@@ -1,5 +1,5 @@
 ---
-titile: Mentorat Gym
+title: Mentorat Gym
 tags:mentorat,gym,schule,unterricht
 ---
 
@@ -7,7 +7,7 @@ tags:mentorat,gym,schule,unterricht
 
 Der Artikel hält alle Informationen zum Mentorat für das Gymnasium.
 
-Das Mentorat erfüllt 2 Aufgaben. zum einen wird mir geholfen meinen Unterricht
+Das Mentorat erfüllt 2 Aufgaben. Zum einen wird mir geholfen meinen Unterricht
 zu organisieren und ich kann von erfahrenen Lehrpersonen profitieren. Zum
 anderen ist es eine Evaluation für mich ob ich mich als Lehrperson eigne.
 
@@ -33,9 +33,25 @@ nächste Semester zu besprechen.
 Offene Fragen:
  - Was ist CA
  - Unterrichtsmaterialien für Gym und FMS
-   - FMS gibt es Skripte, da hab ich bereits von Jan Hitz etwas erhalten
+   - FMS gibt es Skripts, da hab ich bereits von Jan Hitz etwas erhalten
  - Andere Aufgaben:
    - Abwesenheiten Eintragen
    - Andere administrative Tätigkeiten
  - Prüfungen:
    - Wie viele braucht es pro Semester?
+
+
+## Besprechung vor Ort
+
+- Praktikum der FHNW
+- Warrin fragen wegen Druckertreiber
+- Warrin und Schwander für Skripte
+- Brunno Finetti: Die Kunst des Sehens ind der Mathematik
+- Materialien anschauen und vorbereiten
+- Termin in der letzten Woche anchauen
+- Geogebra, draw.io, online2pdf.com
+- CA: Informatik FMS
+- WLAN und WEBDAV aufsetzen
+- nanoo.tv: iHuman
+- Prüfung nach Datum nicht nach Thema
+
